@@ -233,12 +233,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nanodocumet/composer-exercise-3.git",
-                "reference": "025d5fcf0d4c6e9e4015a3eb51340a1de62a989f"
+                "reference": "c26048935cadf1f2a2aa00a0244d7fb2d45d9d8d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nanodocumet/composer-exercise-3/zipball/025d5fcf0d4c6e9e4015a3eb51340a1de62a989f",
-                "reference": "025d5fcf0d4c6e9e4015a3eb51340a1de62a989f",
+                "url": "https://api.github.com/repos/nanodocumet/composer-exercise-3/zipball/c26048935cadf1f2a2aa00a0244d7fb2d45d9d8d",
+                "reference": "c26048935cadf1f2a2aa00a0244d7fb2d45d9d8d",
                 "shasum": ""
             },
             "require": {
@@ -249,7 +249,7 @@
                 "source": "https://github.com/nanodocumet/composer-exercise-3/tree/master",
                 "issues": "https://github.com/nanodocumet/composer-exercise-3/issues"
             },
-            "time": "2016-05-16 21:59:18"
+            "time": "2016-05-16 22:07:09"
         }
     ],
     "packages-dev": [],
