@@ -1,0 +1,16 @@
+{
+  "name": "sample/composer-exercise-3-project",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/nanodocumet/composer-exercise-2"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/nanodocumet/composer-exercise-3"
+    }
+  ],
+  "require": {
+    "sample/composer-exercise-3": "dev-master"
+  }
+}
